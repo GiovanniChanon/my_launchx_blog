@@ -9,13 +9,6 @@ menu:
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+Soy un ingeniero de 24 años de Acapulco que gusta de actualizar sus habilidades en tecnologías para programación. Mi mayor interés es el desarrollo web por lo que quiero llegar a desarrollar plataformas y aplicaciones que lleguen a mucha gente y puedan aportar algo positivo al mundo.
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
 
